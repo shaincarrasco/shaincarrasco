@@ -31,7 +31,7 @@ Private repositories show the product and the measurements on the site; ask me f
 <img src="assets/activity.svg" alt="Contribution calendar for the last year" width="100%">
 
 <!-- activity:start -->
-**79 contributions in the last year.**
+**95 contributions in the last year.**
 <!-- activity:end -->
 
 Python, TypeScript, Go and Luau. pandas, scikit-learn, XGBoost, PyTorch, astropy. Flask, Next.js, Astro. PostgreSQL and Neon.
